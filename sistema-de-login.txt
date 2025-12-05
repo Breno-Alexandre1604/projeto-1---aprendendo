@@ -1,4 +1,3 @@
 email do usuário
 senha do usuário
-nome do usuário
 endereço do usuário
