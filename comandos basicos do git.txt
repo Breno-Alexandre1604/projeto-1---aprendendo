@@ -1,0 +1,23 @@
+git --help 
+=> Mostra comandos git.
+
+git init 
+=> comando usado para iniciar um repositório.
+
+git add .  ou git add <files> 
+=> o primeiro adicionar todos os arquivos de uma vez, já o segundo precisa dize a pasta(file), sendo só 1 arquivo por vez
+
+git status
+=> Mostra os status atuais do repositório, como arquivos a serem não adicionados e modificados.
+
+git commit -m
+=> Criar uma versão do projeto.
+
+git push
+=> Enviar o(s) arquivo(s) para o GitHub.
+
+git reflog
+=> Mostra as versões do projeto.
+
+git reset --hard
+=> Usado para alterar entre as versões do projeto, antigas ou  atualizadas.
