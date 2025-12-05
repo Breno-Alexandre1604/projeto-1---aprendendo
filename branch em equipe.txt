@@ -1,0 +1,9 @@
+Regras para trabalhar com branch em equipe:
+
+1. git pull da branch principal
+2. gerar uma nova branch a partir da branch principal 
+3. trabalhar e adicionar nova funcionalidade na nova branch que criou
+4. finalizar o trabalho na branch temporária 
+5. git pull para ir a versão mais atual da branch principal
+6. git merge <branch temporaria> para mergir(unir) o código da branch temporária com a branch principal(depois de testar)
+8.git push da branch principal
